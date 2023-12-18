@@ -112,8 +112,8 @@ const NavbarComponent = () => {
   return (
     <NavWrapper>
       <Brand>Adidas</Brand>
-      <NavList>
-        <NavItem>
+      <NavList> 
+        <NavItem> 
           <NavLinkStyled to="/caballero">Caballero</NavLinkStyled>
         </NavItem>
         <NavItem>
